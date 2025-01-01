@@ -27,7 +27,7 @@ Una página web diseñada para mostrar información nutricional de forma clara y
 ## 🚀 Cómo usar
 
 1. Clona el repositorio:  
-   git clone https://github.com/tu-usuario/nutrition-info-web.git
+   git clone https://github.com/ezequielzaquiere/recipePage
 2. Abre el archivo `index.html` en tu navegador para ver la página en acción.
 
 ## 🌟 Funcionalidad adicional
