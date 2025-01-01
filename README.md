@@ -1,4 +1,4 @@
-# Nutrition Info Web
+# Recipe Page - Simple Omelett Recipe
 
 Una página web diseñada para mostrar información nutricional de forma clara y visualmente atractiva. Este proyecto utiliza solo HTML y CSS para estructurar y estilizar los elementos, priorizando el diseño adaptable (responsive design) para dispositivos móviles y pantallas más grandes.
 
