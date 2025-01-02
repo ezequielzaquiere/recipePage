@@ -29,10 +29,11 @@ Una página web diseñada para mostrar información nutricional de forma clara y
 1. Clona el repositorio:  
    git clone https://github.com/ezequielzaquiere/recipePage
 2. Abre el archivo `index.html` en tu navegador para ver la página en acción.
-
+3. Otra opción es entrar en el siguiente link: https://ezequielzaquiere.github.io/recipePage/
+   
 ## 🌟 Funcionalidad adicional
 
--   Este proyecto está pensado para ser un punto de partida. Puedes integrarlo con JavaScript o un backend para hacerlo interactivo.
+-   Este proyecto está pensado para ser un punto de partida. En un futuro se integrará JavaScript y Node.JS para hacerlo interactivo.
 
 ## 🎯 Objetivo
 
@@ -40,7 +41,7 @@ El objetivo principal de este proyecto fue practicar habilidades de HTML y CSS, 
 
 ## 📂 Estructura del proyecto
 
-nutrition-info-web/
+recipe-page-main/
 │
 ├── index.html // Archivo principal de la estructura de la página
 ├── styles.css // Archivo de estilos CSS
@@ -61,9 +62,6 @@ Soy estudiante de desarrollo web en un bootcamp intensivo, donde estoy adquirien
 Mi objetivo es crecer como desarrollador web, aportando soluciones bien estructuradas y con atención a los detalles. Este proyecto, además de ser parte de mi aprendizaje, refleja mi compromiso con escribir código limpio y funcional, listo para adaptarse a futuras mejoras o integraciones.
 
 Si eres recruiter o colaborador interesado en talento en desarrollo web, estaré encantado de conectar y conversar.
-
-LinkedIn: Tu Perfil
-GitHub: Tu Repositorio
 
 ## 📝 Licencia
 
